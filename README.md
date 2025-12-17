@@ -21,6 +21,8 @@ This project aims to build a comprehensive ETL pipeline for Uber trip data. The 
   - Clean the raw data (handling duplicates, formatting datetime).
   - Create Dimension Tables: `datetime_dim`, `passenger_count_dim`, `trip_distance_dim`, `rate_code_dim`, etc.
   - Create the Fact Table (`fact_table`) by merging dimensions.
+  - <img width="1165" height="829" alt="Screenshot 2025-12-14 231413" src="https://github.com/user-attachments/assets/bc0881e9-6116-47b0-be52-aeba308ecd89" />
+
 
 ## Next Steps
 - Deploying the transformation code to **Mage.ai**.
