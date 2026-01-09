@@ -75,7 +75,7 @@ The final analytics layer provides a deep dive into Uber's operations:
 
 ---
 ### Connect with Me
-I'm **Mohamed Amer**, a 1st-year CS student at AIU, deeply interested in Cloud Infrastructure, Data Engineering, and Backend Development.
+I'm **Mohamed Amer**, a 1st-year CS student at AIU, deeply interested in Cloud Infrastructure, Data Engineering.
 
 * **GitHub:** [https://github.com/mohamedamerdev-coder]
 * **LinkedIn:** [www.linkedin.com/in/mohamed-amer-46733833b]
