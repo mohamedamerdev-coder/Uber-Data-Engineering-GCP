@@ -1,11 +1,11 @@
-# 🚕 Uber End-to-End Data Engineering Project
+#  Uber End-to-End Data Engineering Project
 
-### 🌟 Overview
+### Overview
 This project is a comprehensive **End-to-End Data Engineering Pipeline** that transforms raw Uber trip data into actionable insights. Built as part of my journey as a Computer Science student at **Alamein International University (AIU)**, this project covers the entire data lifecycle: from cloud storage and orchestration to data modeling and visualization.
 
 ---
 
-### 🏗️ Project Architecture
+###  Project Architecture
 The pipeline follows a modern data stack approach:
 1. **Data Source:** Raw Uber CSV data stored in **Google Cloud Storage (GCS)**.
 2. **Orchestration:** **Mage AI** running on a **GCP Compute Engine (VM)** instance.
@@ -15,11 +15,12 @@ The pipeline follows a modern data stack approach:
 6. **Final Layer:** Custom **SQL** joins for the analytics table.
 7. **Visualization:** Interactive Dashboard built with **Google Looker Studio**.
 
-> **[REPLACE THIS: Insert your Mage Pipeline Screenshot here]**
+> <img width="1920" height="1080" alt="Screenshot 2026-01-09 154010" src="https://github.com/user-attachments/assets/3cf33909-7eca-4955-859c-1bd061422a3d" />
+
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 | Tool | Purpose |
 | :--- | :--- |
 | **Python** | Data Transformation & ETL Logic |
@@ -32,7 +33,7 @@ The pipeline follows a modern data stack approach:
 
 ---
 
-### 📉 Data Modeling (Star Schema)
+### Data Modeling (Star Schema)
 To optimize query performance and maintain data integrity, the data was modeled into a **Star Schema**:
 
 * **Fact Table:** `fact_table` (Measures and FKs).
@@ -46,7 +47,7 @@ To optimize query performance and maintain data integrity, the data was modeled 
 
 ---
 
-### 🔥 Challenges Faced & Lessons Learned
+### Challenges Faced & Lessons Learned
 Building this pipeline wasn't without its hurdles. Here’s how I tackled the technical challenges:
 
 1.  **Environment Isolation (PEP 668):**
@@ -61,7 +62,7 @@ Building this pipeline wasn't without its hurdles. Here’s how I tackled the te
 
 ---
 
-### 📊 Final Insights
+###  Final Insights
 The final analytics layer provides a deep dive into Uber's operations:
 * **Revenue Analysis:** ~$1.6M total revenue processed.
 * **Geospatial Mapping:** Identification of high-density pickup zones in New York.
@@ -72,6 +73,10 @@ The final analytics layer provides a deep dive into Uber's operations:
  <img width="668" height="798" alt="Screenshot 2026-01-09 172051" src="https://github.com/user-attachments/assets/52be53a9-997a-41de-82fc-87b537fe6538" />
 
 
+---
+### Connect with Me
+I'm **Mohamed Amer**, a 1st-year CS student at AIU, deeply interested in Cloud Infrastructure, Data Engineering, and Backend Development.
 
+* **GitHub:** [https://github.com/mohamedamerdev-coder]
+* **LinkedIn:** [www.linkedin.com/in/mohamed-amer-46733833b]
 
- **Mohamed Amer**
