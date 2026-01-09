@@ -68,8 +68,10 @@ The final analytics layer provides a deep dive into Uber's operations:
 * **Operational Efficiency:** Average trip distances and payment method preferences.
 
  **[Live Dashboard Link](https://lookerstudio.google.com/reporting/3bc1ef5c-a4a5-44c2-b80c-9fc2fdfa63d8)**
+ 
+ <img width="668" height="798" alt="Screenshot 2026-01-09 172051" src="https://github.com/user-attachments/assets/52be53a9-997a-41de-82fc-87b537fe6538" />
 
-[Looker_Studio_Reporting_-_1_9_26,_3_53 PM.pdf](https://github.com/user-attachments/files/24530064/Looker_Studio_Reporting_-_1_9_26._3_53.PM.pdf)
+
 
 
  **Mohamed Amer**
